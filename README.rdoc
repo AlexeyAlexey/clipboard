@@ -1,0 +1,7 @@
+Program open website in new tab of web browser for translating word.
+For this you should select word and push right "shift" key
+
+Open 
+
+* xclip - http://manpages.ubuntu.com/manpages/natty/man1/xclip.1.html
+* $ rvmsudo ruby clipboard.rb
