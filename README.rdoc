@@ -1,4 +1,4 @@
-Program open website in new tab of web browser for translating word.
+Program open website in new tab of web browser to translate the word.
 For this you should select word and push right "shift" key
 
 Open 
